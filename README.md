@@ -1,1 +1,1 @@
-# Projeto-DIO-BD-e-commercece
+# Projeto-DIO-BD-e-commerce
